@@ -26,7 +26,7 @@ Se você estiver usando versões muito antigas do Ubuntu, o script perguntará s
 
 ## Agradecimentos
 
-- Herbert Raab por [Atrometrica](http://www.astrometrica.at);
+- Herbert Raab pelo [Atrometrica](http://www.astrometrica.at);
 - [Minor Planet Center (MPC)](https://minorplanetcenter.net) pela base de dados;
 - Desenvolvedores do [WineHQ](https://www.winehq.org)
 - [IASC (International Astronomical Search Collaboration)](http://iasc.cosmosearch.org)
